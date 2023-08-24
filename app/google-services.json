@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "434771961704",
+    "firebase_url": "https://retroassigment-default-rtdb.firebaseio.com",
+    "project_id": "retroassigment",
+    "storage_bucket": "retroassigment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434771961704:android:a182479394974569c8d8dd",
+        "android_client_info": {
+          "package_name": "com.example.retroassigment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434771961704-a3gi7c1bitcgij67tm77nqvf4p8q6b47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1fptV0ZU0HvFOCo3wDyHs2nT82rRce2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434771961704-a3gi7c1bitcgij67tm77nqvf4p8q6b47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
